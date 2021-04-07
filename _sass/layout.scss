@@ -113,9 +113,30 @@ header {
 	margin-left: 15px;
 }
 
+.logoo {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	height: 115px;
+	margin-right: 30px;
+}
+
+.logoo > p {
+	color: $header-title-color;
+	white-space: nowrap;
+	display: flex;
+	font-weight: bold;
+	margin-left: 15px;
+}
+
 @media only screen and (max-width: 768px) {
 
 	.logo {
+		height: 80px;
+		margin-right: 0px;
+	}
+	
+	.logoo {
 		height: 80px;
 		margin-right: 0px;
 	}
