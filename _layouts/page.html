@@ -11,7 +11,7 @@
     <div class="headerBackground subPageHeaderBackground">
         <div class="container subPageContainer">
         <header>
-	<div class="logoo">
+	<div class="logo">
 		<div class="appIconShadow">
 			<svg width="0" height="0">
 				<defs>
@@ -26,11 +26,21 @@
 				<img class="headerIcon" src="{{ site.app_icon | relative_url }}">
 			{% endif %}
 			<div class="divider"></div>
-			<p class="headerName">{{ site.app_name }}</p>
-		</div>		
+		</div>
+		<p class="headerName">{{ site.app_name }}</p>
 	</div>
-		
-	
+	<nav class="scroll">
+		<ul>
+			{% for page in site.pages %}
+				{% if page.include_in_header == true %}
+				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+			{% if site.presskit_download_link %}
+				<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
+			{% endif %}
+		</ul>
+	</nav>
 </header>
             <article class="page markdown-body">
                 {{ content }}
