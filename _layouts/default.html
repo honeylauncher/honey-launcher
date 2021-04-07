@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
+
 {% include head.html %}
+
 <body>
     <div class="imageWrapper">
-            
+            <div class="headerBackground">
                 <div class="container">
                     {% include header.html %}
                     <div class="iphonePreview">
@@ -33,9 +35,16 @@
                                     </clipPath>
                                 </defs>
                             </svg>
-                            
+                            <img class="appIconLarge" src="{{ site.app_icon | relative_url }}">
                         </div>
-                        
+                        <div class="appNamePriceContainer">
+                            <h1 class="appName">
+                                {{ site.app_name }}
+                            </h1>
+                            <h2 class="appPrice">
+                                {{ site.app_price }}
+                            </h2>
+                        </div>
                         <div class="appDescriptionContainer">
                             <p class ="appDescription">
                                 {{ site.app_description }}
@@ -52,6 +61,7 @@
                     {% include footer.html %}
                     {% include appstoreimages.html %}
                 </div>
+            </div>
         </div>
 </body>
 </html>
