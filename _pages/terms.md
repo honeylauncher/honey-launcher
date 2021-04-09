@@ -4,7 +4,7 @@ title: Terms & Conditions
 include_in_header: true
 ---
 
-# Terms of Use
+# Terms and Conditions
 ### 1. Terms
 This document describes the terms of service that apply to Honey Launcher.
 
@@ -35,7 +35,14 @@ In no event shall the Owner, its principles, or its suppliers be liable for any 
 ### 5. Revisions and Errata
 The materials appearing in Honey Launcher could include technical, typographical, or photographic errors. The Owner does not warrant that any of the materials in its products are accurate, complete, or current. The Owner may make changes its products at any time without notice. The Owner does not, however, make any commitment to update the materials.
 
+### 6. Changes to This Terms and Conditions
 
-### 6. Site Terms of Use Modifications
+I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-The owner may revise these terms of use for its web site at any time without notice. By using this website you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+These terms and conditions are effective as of 2021-04-09
+
+### 7. Contact Us
+
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at honey.launcher.team@gmail.com.
+
+
