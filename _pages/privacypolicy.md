@@ -15,7 +15,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Honey Launcher unless otherwise defined in this Privacy Policy.
 
 ## Information Collection and Use
-*The information on your device and is not collected by me in any way.*
+**The information on your device is not collected by me in any way.**
 
 The app does use third party services that may collect information used to identify you.
 
