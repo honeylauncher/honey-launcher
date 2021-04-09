@@ -14,7 +14,7 @@ By using Honey Launcher, you are agreeing to be bound by these web site Terms an
 The Owner refers to Menes Buccino. Developer of the launcher 
 
 ### 2. Use License
-Permission is granted to temporarily view, and where explicitly allowed download, a copy of the materials (information or software) for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license, you may not:
+Permission is granted to use Honey Launcher and its related products. This is the grant of a license, not a transfer of title, and under this license you may not:
 
 * modify or copy the materials;
 * use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
