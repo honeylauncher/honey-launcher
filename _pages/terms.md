@@ -19,7 +19,6 @@ Permission is granted to use Honey Launcher and its related products. This is th
 * use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
 * attempt to decompile or reverse engineer the software;
 * remove any copyright or other proprietary notations from the materials; 
-* transfer the materials to another person or "mirror" the materials on any other server or in another application.
 
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by the Owner at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
