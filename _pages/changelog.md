@@ -12,6 +12,8 @@ Check all the new features that comes with our updates.
 
 
 # **Version 1.0.2**
+Fixed drawer design.
+Home animations are now free.
 Fixed gestures.
 Added settings to show all system apps.
 Fixed background opacity.
