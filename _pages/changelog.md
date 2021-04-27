@@ -11,7 +11,7 @@ Check all the new features that comes with our updates.
 
 
 # **Version 1.0.5**
-Merged drawer with search page. After receiving feedback from users, we saw that it doesn't feel good to swipe up for it.
+Merged drawer with search page. After receiving feedback from users, we saw that it doesn't feel good to swipe up for both scrolling and show drawer.
 Performance improvments.
 
 
