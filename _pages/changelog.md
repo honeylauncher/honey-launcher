@@ -10,6 +10,10 @@ Check all the new features that comes with our updates.
 <br>
 
 
+# **Version 1.0.5**
+Merged drawer with search page. After receiving feedback from users, we saw that it doesn't feel good to swipe up for it.
+Performance improvments.
+
 
 # **Version 1.0.2**
 Fixed drawer design.
