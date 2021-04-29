@@ -9,7 +9,7 @@ Check all the new features that comes with our updates.
 
 <br>
 
-# **Version 1.0.6 (coming soon)**
+# **Version 1.0.6**
 Now you can long press on widget to change it. <br>
 Now you can open app by pressing enter when searching. <br>
 Now you can hide notification bar. <br>
