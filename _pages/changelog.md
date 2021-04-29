@@ -12,6 +12,7 @@ Check all the new features that comes with our updates.
 # **Version 1.0.6 (coming soon)**
 Now you can long press on widget to change it. <br>
 Now you can open app by pressing enter when searching. <br>
+Now you can hide notification bar. <br>
 Fixed weather text bug on big phones. <br>
 Fixed settings not loading problem.
 
