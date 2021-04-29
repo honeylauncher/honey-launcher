@@ -14,6 +14,7 @@ Now you can long press on widget to change it. <br>
 Now you can open app by pressing enter when searching. <br>
 Now you can hide navigation bar. <br>
 Fixed weather text bug on big phones. <br>
+Fixed settings not loading problem.
 
 
 
