@@ -9,18 +9,25 @@ Check all the new features that comes with our updates.
 
 <br>
 
+# **Version 1.0.5**
+Now you can long press on widget to change it. <br>
+Now you can open app by pressing enter when searching. <br>
+Now you can hide navigation bar. <br>
+Fixed weather text bug on big phones. <br>
+
+
 
 # **Version 1.0.5**
-Merged drawer with search page. After receiving feedback from users, we saw that it doesn't feel good to swipe up for both scrolling and show drawer.
+Merged drawer with search page. After receiving feedback from users, we saw that it doesn't feel good to swipe up for both scrolling and show drawer. <br>
 Performance improvments.
 
 
 # **Version 1.0.2**
-Fixed drawer design.
-Home animations are now free.
-Fixed gestures.
-Added settings to show all system apps.
-Fixed background opacity.
+Fixed drawer design. <br>
+Home animations are now free.<br>
+Fixed gestures.<br>
+Added settings to show all system apps.<br>
+Fixed background opacity.<br>
 
 
 ### `Initial Release`
