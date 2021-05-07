@@ -9,6 +9,13 @@ Check all the new features that comes with our updates.
 
 <br>
 
+# **Version 1.1.0**
+New drawer design with list. <br>
+New widget disappearing animation. <br>
+Now you can hide scrollbar in drawer <br>
+Fixed drawer background color <br>
+Minor bug fixes.
+
 # **Version 1.0.6**
 Now you can long press on widget to change it. <br>
 Now you can open app by pressing enter when searching. <br>
