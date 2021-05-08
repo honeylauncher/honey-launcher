@@ -9,6 +9,10 @@ Check all the new features that comes with our updates.
 
 <br>
 
+# **Version 1.1.1**
+Bug fixes. <br>
+Drawer design improved. <br>
+
 # **Version 1.1.0**
 New drawer design with list. <br>
 New widget disappearing animation. <br>
