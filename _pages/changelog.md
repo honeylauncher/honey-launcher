@@ -10,6 +10,10 @@ Check all the new features that comes with our updates.
 <br>
 
 # **Version 1.1.1**
+Fixed grey screen at start. <br>
+Fixed navigation bar in search/drawer. <br>
+
+# **Version 1.1.1**
 Bug fixes. <br>
 Drawer design improved. <br>
 
