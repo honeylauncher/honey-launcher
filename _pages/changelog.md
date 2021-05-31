@@ -9,6 +9,11 @@ Check all the new features that comes with our updates.
 
 <br>
 
+# **Version 1.1.3**
+Fixed privacy policy bug on small devices. <br>
+Added swipe gesture from sides to open notification panel. <br>
+Other bug fixes. <br>
+
 # **Version 1.1.2**
 Fixed grey screen at start. <br>
 Fixed navigation bar in search/drawer. <br>
