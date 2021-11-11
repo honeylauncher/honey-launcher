@@ -9,6 +9,10 @@ Check all the new features that comes with our updates.
 
 <br>
 
+# **Version 1.2.0**
+You can now add your own widget. <br>
+Bug fixes. <br>
+
 # **Version 1.1.3**
 Fixed privacy policy bug on small devices. <br>
 Added swipe gesture from sides to open notification panel. <br>
